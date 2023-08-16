@@ -15,3 +15,6 @@ So the process for forecasting subscriptions for Netflix starts with collecting 
 
 ## [Link for dateset](https://statso.io/forecasting-subscriptions-case-study/)
 
+***
+## For Better View
+[Visit](https://nbviewer.org/github/onkar-kota/Netflix-Subscription-Forcasting/blob/master/3.%20Netflix%20Subscriptions%20Forecasting.ipynb)
