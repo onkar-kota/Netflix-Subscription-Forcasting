@@ -1,7 +1,9 @@
 # Netflix Subscriptions Forecasting
 
-### Process We Can Follow
 ***
+
+### Process We Can Follow
+
 Using techniques like time series forecasting, Netflix can estimate the expected number of new subscribers in a given time period and better understand the growth potential of their business. Below is the process we can follow to forecast subscription counts for Netflix:
 
 1. Gather historical Netflix subscriptions growth data
