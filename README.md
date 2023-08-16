@@ -13,8 +13,7 @@ Using techniques like time series forecasting, Netflix can estimate the expected
 
 So the process for forecasting subscriptions for Netflix starts with collecting a dataset based on the historical growth of Netflix Subscribers. I found an ideal dataset for this task. You can download the dataset from here.
 
-## [Link for dateset](https://statso.io/forecasting-subscriptions-case-study/)
+[Link for dateset](https://statso.io/forecasting-subscriptions-case-study/)
 
-***
 ## For Better View
 [Visit](https://nbviewer.org/github/onkar-kota/Netflix-Subscription-Forcasting/blob/master/3.%20Netflix%20Subscriptions%20Forecasting.ipynb)
