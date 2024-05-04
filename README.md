@@ -1,19 +1,34 @@
 # Netflix Subscriptions Forecasting
 
-***
+# Problem Statement:
+The goal of this project is to forecast the number of new Netflix subscribers in future time periods based on historical subscription growth data. By accurately predicting subscription counts, Netflix can better understand its growth potential and make informed decisions regarding resource allocation, marketing strategies, and content production.
 
-### Process We Can Follow
+# Solution:
+We aim to employ time series forecasting techniques to predict future Netflix subscription counts. This involves gathering historical subscription data, preprocessing and cleaning the dataset, exploring time series patterns, selecting an appropriate forecasting model, training the model, and ultimately forecasting future subscription counts.
 
-Using techniques like time series forecasting, Netflix can estimate the expected number of new subscribers in a given time period and better understand the growth potential of their business. Below is the process we can follow to forecast subscription counts for Netflix:
+# How I Approached It:
+**Data Collection**: Obtained historical Netflix subscription growth data from dataset link.
 
-1. Gather historical Netflix subscriptions growth data
-2. Preprocess and clean the data
-3. Explore and analyze time series patterns
-4. Choose a time series forecasting model (e.g., ARIMA, LSTM)
-5. Train the model using the training data
-6. Forecast future Netflix subscription counts
+**Data Preprocessing**: Cleaned and preprocessed the dataset to handle missing values, outliers, and ensure consistency.
 
-So the process for forecasting subscriptions for Netflix starts with collecting a dataset based on the historical growth of Netflix Subscribers. I found an ideal dataset for this task. You can download the dataset from here.
+**Exploratory Data Analysis (EDA)**: Conducted EDA to understand the underlying patterns, trends, and seasonality in the subscription data.
+
+**Model Selection**: Chose a suitable time series forecasting model based on the characteristics of the data. Options include ARIMA, LSTM, or other advanced models.
+
+**Model Training**: Trained the selected model using the prepared training dataset.
+
+**Forecasting**: Utilized the trained model to forecast future Netflix subscription counts for desired time periods.
+
+#What I Found:
+**Seasonality**: Identified seasonal patterns in the subscription data, potentially related to holidays, marketing campaigns, or content releases.
+
+**Trend Analysis**: Observed long-term trends indicating overall growth or fluctuations in Netflix subscriptions over time.
+
+**Model Performance**: Evaluated the performance of different forecasting models in terms of accuracy, robustness, and computational efficiency.
+
+
+#Conclusion:
+Through this project, we have demonstrated the effectiveness of time series forecasting techniques in predicting future Netflix subscription counts. By leveraging historical data and advanced forecasting models, Netflix can make informed decisions to drive business growth, optimize resource allocation, and enhance customer experience.
 
 [Link for dataset](https://statso.io/forecasting-subscriptions-case-study/)
 
