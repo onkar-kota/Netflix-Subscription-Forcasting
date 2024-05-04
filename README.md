@@ -19,7 +19,7 @@ We aim to employ time series forecasting techniques to predict future Netflix su
 
 **Forecasting**: Utilized the trained model to forecast future Netflix subscription counts for desired time periods.
 
-#What I Found:
+# What I Found:
 **Seasonality**: Identified seasonal patterns in the subscription data, potentially related to holidays, marketing campaigns, or content releases.
 
 **Trend Analysis**: Observed long-term trends indicating overall growth or fluctuations in Netflix subscriptions over time.
@@ -27,7 +27,7 @@ We aim to employ time series forecasting techniques to predict future Netflix su
 **Model Performance**: Evaluated the performance of different forecasting models in terms of accuracy, robustness, and computational efficiency.
 
 
-#Conclusion:
+# Conclusion:
 Through this project, we have demonstrated the effectiveness of time series forecasting techniques in predicting future Netflix subscription counts. By leveraging historical data and advanced forecasting models, Netflix can make informed decisions to drive business growth, optimize resource allocation, and enhance customer experience.
 
 [Link for dataset](https://statso.io/forecasting-subscriptions-case-study/)
